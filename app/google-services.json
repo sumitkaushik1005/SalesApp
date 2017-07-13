@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "102803025022",
+    "firebase_url": "https://salesapp-1499849225484.firebaseio.com",
+    "project_id": "salesapp-1499849225484",
+    "storage_bucket": "salesapp-1499849225484.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102803025022:android:0d00cc6d2c437fae",
+        "android_client_info": {
+          "package_name": "inc.kaushik.sumit.SalesApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102803025022-e5ciia8okhqvelj0jt3lhbgcb44epk7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcm7sAkl2sa4ZUacMkYRC5D8otkXOH8Ts"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
